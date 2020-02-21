@@ -1,2 +1,3 @@
 # Flower-Classifier
-build an image classifier from scratch that identifies flower species from images (for Udacity’s PyTorch Scholarship Challenge)
+Transfer learning using densenet121 architecture to create a CNN that identifies flower species from images (for Udacity’s PyTorch Scholarship Challenge)
+*** (coming soon) ***
